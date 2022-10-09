@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dardi20
-- 👀 I’m interested in JAVA AND MACHINE LEARNING 
+- 👀 I’m interested in JAVA and Machine Learning applications 
 - 🌱 I’m currently improving on JAVA
 - 💞️ I’m looking to collaborate on any JAVA/Python based projects.
 - 📫 How to reach me dardi259@gmail.com
